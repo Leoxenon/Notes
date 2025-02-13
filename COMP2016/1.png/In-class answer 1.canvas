@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b5fe9d1e26835a1e","x":-250,"y":-80,"width":250,"height":60,"type":"text","text":"Stock"},
+		{"id":"24474524c8fa1261","x":-640,"y":-80,"width":250,"height":60,"color":"1","type":"text","text":"Symbol"},
+		{"id":"6ac62c3f45b17ef9","x":125,"y":-140,"width":250,"height":60,"type":"text","text":"Change"},
+		{"id":"819bf818c84e197f","x":-440,"y":-300,"width":250,"height":60,"type":"text","text":"Name"},
+		{"id":"a6df4dd071e54148","x":-80,"y":-330,"width":250,"height":60,"type":"text","text":"Last"},
+		{"id":"edd45b645794415d","x":123,"y":34,"width":250,"height":60,"color":"5","type":"text","text":"%Chg"}
+	],
+	"edges":[
+		{"id":"97da73381e40a98b","fromNode":"b5fe9d1e26835a1e","fromSide":"right","toNode":"6ac62c3f45b17ef9","toSide":"left"},
+		{"id":"cb212d50ada4b834","fromNode":"b5fe9d1e26835a1e","fromSide":"left","toNode":"24474524c8fa1261","toSide":"right"},
+		{"id":"83f5be641c3cdeb6","fromNode":"a6df4dd071e54148","fromSide":"bottom","toNode":"b5fe9d1e26835a1e","toSide":"top"},
+		{"id":"be7c2ad4090d8438","fromNode":"819bf818c84e197f","fromSide":"bottom","toNode":"b5fe9d1e26835a1e","toSide":"top"},
+		{"id":"413fbefd88ff0498","fromNode":"b5fe9d1e26835a1e","fromSide":"right","toNode":"edd45b645794415d","toSide":"left"}
+	]
+}
