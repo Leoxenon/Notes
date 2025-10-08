@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"d5107f4f862c148f","type":"text","text":"Professors","x":-140,"y":-260,"width":250,"height":60},
+		{"id":"febd0f7c80b2437e","type":"text","text":"Teach","x":-140,"y":-140,"width":250,"height":60,"color":"1"},
+		{"id":"2a5981d16fff4cef","type":"text","text":"Students","x":-140,"y":260,"width":250,"height":60},
+		{"id":"ade3645d60c976d7","type":"text","text":"Take","x":-140,"y":149,"width":250,"height":60,"color":"1"},
+		{"id":"07af24e1bae2f269","type":"text","text":"Courses","x":-140,"y":0,"width":250,"height":60},
+		{"id":"6dbbbcb79910a960","x":205,"y":-78,"width":250,"height":60,"color":"1","type":"text","text":"cid"},
+		{"id":"34535c0f1dd42e17","x":203,"y":217,"width":250,"height":60,"color":"1","type":"text","text":"sid"},
+		{"id":"a6670ff7973a0bc6","x":205,"y":290,"width":250,"height":60,"type":"text","text":"student name"},
+		{"id":"7255d914f45a3dc7","x":211,"y":-305,"width":250,"height":60,"type":"text","text":"professor name"},
+		{"id":"1bef822f7761fec4","x":211,"y":362,"width":250,"height":60,"type":"text","text":"student email"},
+		{"id":"cb704f9ddd5ee041","type":"text","text":"Grade","x":205,"y":149,"width":250,"height":60},
+		{"id":"3fb7503358bc54de","x":220,"y":-237,"width":250,"height":60,"type":"text","text":"professor email"},
+		{"id":"a06c0ec3ff4ffeaa","x":216,"y":-160,"width":250,"height":60,"color":"1","type":"text","text":"Staff_id"},
+		{"id":"ad8a5449c546d995","x":203,"y":30,"width":250,"height":60,"type":"text","text":"course name"},
+		{"id":"7f43db66ccd297e4","x":-480,"y":-140,"width":250,"height":60,"type":"text","text":"{cid}"},
+		{"id":"003398627d6bbf8d","x":-480,"y":149,"width":250,"height":60,"type":"text","text":"{cid, sid}"}
+	],
+	"edges":[
+		{"id":"8ce5ea61fba5a8ae","fromNode":"d5107f4f862c148f","fromSide":"bottom","toNode":"febd0f7c80b2437e","toSide":"top","toEnd":"none"},
+		{"id":"58f2a7e2d47874c5","fromNode":"07af24e1bae2f269","fromSide":"top","toNode":"febd0f7c80b2437e","toSide":"bottom","label":"||"},
+		{"id":"69ed9cfc6879b933","fromNode":"2a5981d16fff4cef","fromSide":"top","toNode":"ade3645d60c976d7","toSide":"bottom","toEnd":"none","label":"||"},
+		{"id":"1ec111601615fa99","fromNode":"07af24e1bae2f269","fromSide":"bottom","toNode":"ade3645d60c976d7","toSide":"top","toEnd":"none","label":"||"},
+		{"id":"254d8f7c705e26bb","fromNode":"ade3645d60c976d7","fromSide":"right","toNode":"cb704f9ddd5ee041","toSide":"left"},
+		{"id":"a57990bd53edc271","fromNode":"07af24e1bae2f269","fromSide":"right","toNode":"6dbbbcb79910a960","toSide":"left"},
+		{"id":"46d796782c1db852","fromNode":"07af24e1bae2f269","fromSide":"right","toNode":"ad8a5449c546d995","toSide":"left"},
+		{"id":"149e041052ead9bf","fromNode":"2a5981d16fff4cef","fromSide":"right","toNode":"34535c0f1dd42e17","toSide":"left"},
+		{"id":"6b6a9296f6fa8cda","fromNode":"2a5981d16fff4cef","fromSide":"right","toNode":"a6670ff7973a0bc6","toSide":"left"},
+		{"id":"498866994d2c8dba","fromNode":"d5107f4f862c148f","fromSide":"right","toNode":"7255d914f45a3dc7","toSide":"left"},
+		{"id":"fcd1573e0912a578","fromNode":"2a5981d16fff4cef","fromSide":"right","toNode":"1bef822f7761fec4","toSide":"left"},
+		{"id":"6aeca7bbdef4cd69","fromNode":"d5107f4f862c148f","fromSide":"right","toNode":"3fb7503358bc54de","toSide":"left"},
+		{"id":"f61700206a85aaa2","fromNode":"d5107f4f862c148f","fromSide":"right","toNode":"a06c0ec3ff4ffeaa","toSide":"left"}
+	]
+}
