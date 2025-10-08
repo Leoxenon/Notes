@@ -1,0 +1,52 @@
+- Price Controls
+	- Price ceiling
+		- legal maximum price
+		- binding (effective)
+			- set below the equilibrium price
+			- shortage
+	- Price floor
+		- legal minimum price
+		- binding (effective)
+			- set above the equilibrium price
+			- surplus
+
+- Evaluating Price Controls
+	- Markets are usually a good way to organize economic activity
+		- price have a crucial job of balancing supply and demand
+	- Governments can sometimes improve market outcomes
+		- price control
+			- because of unfair market outcome
+			- aim to help those in need
+			- often hurt those in need
+		- other ways
+			- rent subsidies
+			- wage subsidies
+
+- Taxes
+	- can be used to raise revenue for public projects
+	- can be percentage of the good's price
+	- can be a specific amount for each unit sold
+	- can be paid by buyers or sellers
+		- paid by sellers
+			- supply curve shifts left
+		- paid by buyers
+			- demand curve shifts left
+	- Tax incidence
+		- Manner in which the burden of a tax is shared among participants in a market
+	- Taxes on sellers
+		- supply curve shifts left
+		- reduces the size of the market
+		- buyers pay more
+		- sellers receive less
+	- Tax on buyers
+		- demand curve shifts left
+		- seller get a lower price
+		- buyers pay a higher price
+	- Taxes levied on sellers and taxes levied on buyers are equivalent
+	- Very elastic supply and relatively inelastic demand
+		- Sellers bear a small burden of tax
+		- Buyers bear most of the burden
+	- Relatively inelastic supply and very elastic demand
+		- Sellers bear most of the tax burden
+		- Buyers bear a small burden
+	- Tax burden falls more heavily on the side of the market that is less elastic
