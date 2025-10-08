@@ -1,1 +1,0 @@
-![[ECON1007 Basic Economic Principles]]
